@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+env/
+
+# Cached TESS data (large files, re-downloadable)
+data/
+
+# Saved ML model (regenerates on run)
+models/
+
+# Output plots (regenerate on run)
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
