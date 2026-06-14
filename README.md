@@ -84,16 +84,16 @@ The pipeline successfully identifies periodic transit events from NASA TESS ligh
 ## Dashboard Preview
 
 ### Light Curve Preprocessing
-![Raw vs Cleaned Light Curve](images/lightcurve.png)
+![Raw vs Cleaned Light Curve](src/images/lightcurve.png)
 
 ### BLS Periodogram Analysis
-![BLS Detection](images/bls_periodogram.png)
+![BLS Detection](src/images/bls_periodogram.png)
 
 ### Phase Folded Transit
-![Phase Folded Transit](images/phase_folded.png)
+![Phase Folded Transit](src/images/phase_folded.png)
 
 ### Final Prediction Dashboard
-![Results](images/results.png)
+![Results](src/images/results.png)
 ## Installation
 
 ```bash
